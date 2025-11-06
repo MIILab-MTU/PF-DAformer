@@ -1,0 +1,36 @@
+accelerate
+datasets
+evaluate
+einops
+h5py
+imageio
+kornia 
+kornia-rs
+lightning
+matplotlib
+matplotlib-inline
+monai
+nibabel
+opencv-contrib-python
+opencv-python
+opencv-python-headless
+opt-einsum
+protobuf
+requests
+safetensors
+scikit-image
+scikit-learn
+scipy
+termcolor
+timm
+torch-geometric
+torch-summary
+torchmetrics
+torchsummary
+tqdm
+typing_extensions
+wandb
+
+# python 3.11
+pip install torch==2.2.2 torchvision==0.17.2 torchaudio==2.2.2 --index-url https://download.pytorch.org/whl/cu118
+medpy
